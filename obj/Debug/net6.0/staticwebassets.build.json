@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "loLsRPizTJnK3sSGOgo/1RajN7KGVL5NU1kfqXfWpBk=",
+  "Source": "OData6Demo.Api",
+  "BasePath": "_content/OData6Demo.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
